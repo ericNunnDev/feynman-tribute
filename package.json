@@ -1,0 +1,15 @@
+{
+  "name": "feynman-tribute",
+  "version": "1.0.0",
+  "description": "A tribute webpage dedicated to the late Richard Feynman.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Nunn",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
